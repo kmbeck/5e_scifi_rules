@@ -1,0 +1,81 @@
+body {
+	background-color:rgb(33, 40, 53);
+}
+
+h1 {
+	color: whitesmoke;
+	font-family: "Cuprum";
+	font-size: 80px;
+	
+}
+
+h2 {
+	color: whitesmoke;
+	font-family: "Cuprum";
+	font-size: 50px;
+	font-weight: bold;
+	padding-top: 35px;
+}
+
+h3 {	
+	color: whitesmoke;
+	font-family: "Lato";
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 25px;
+	padding-top: 8px;
+}
+
+h4 {
+	color: whitesmoke;
+	font-family: "Lato";
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+iframe {
+	min-width:500px;
+	min-height:200px;
+	border: 0px;
+	padding-bottom: 20px;
+}
+
+p {
+	color: whitesmoke;
+	font-family: "Nunito";
+	font-size: 15px;
+}
+
+table td {
+	color: whitesmoke;
+	border-bottom: 1px solid whitesmoke;
+	font-family:"Nunito";
+	font-size: 15px;
+	padding: 2px 2px 2px 2px;
+}
+
+table th {
+	color: whitesmoke;
+	border-bottom: 2px solid whitesmoke;
+	font-family:"Nunito";
+	font-size: 15px;
+	font-weight: bold;
+	padding: 2px 2px 2px 2px;
+}
+
+li a {
+	color: greenyellow;
+}
+
+ul li {
+	color: whitesmoke;
+	font-size: 15px;
+	font-family: "Nunito";
+}
+
+ul li::before {
+	color: whitesmoke;
+	font-size: 15px;
+	font-family: "Nunito";
+}
