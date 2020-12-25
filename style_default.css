@@ -34,6 +34,13 @@ h4 {
 	text-decoration: underline;
 }
 
+h5 {
+	color: rgb(138, 138, 138);
+	font-family: "Lato";
+	font-size: 17px;
+	font-weight: bold;
+}
+
 iframe {
 	min-width:500px;
 	min-height:200px;
