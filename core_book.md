@@ -225,7 +225,7 @@ Droids are humanoid robots with some level of AI. They vary greatly in sophistic
       * 3: Disadvantage on attack rolls
       * 4: Disadvantage on saving throws
     * If you roll an effect you already have from this source, reroll the 1d4 until you get a new effect.
-    * If a droid takes accumulates 3/4 of the effects from Overload, they must perform an immediate emergency reboot. They lose all effects of Overload immediately, and become Paralyzed for 1d4 rounds until their reboot is completed.
+    * If a droid accumulates 3/4 of the effects from Overload, they must perform an immediate emergency reboot. They lose all effects of Overload immediately, and become Paralyzed for 1d4 rounds until their reboot is completed.
 
 ##### Downed Rules
   * When a droid goes down, they do not need to roll death throws. They can still suffer from instant death as normal.
