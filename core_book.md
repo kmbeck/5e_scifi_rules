@@ -30,6 +30,11 @@
       - [Knowledge Skills](#knowledge-skills)
     - [Races](#races)
       - [Playable Races](#playable-races)
+      - [Droids](#droids)
+        - [Droid Traits](#droid-traits)
+        - [Overloading](#overloading)
+        - [Downed Rules](#downed-rules)
+        - [Repairing](#repairing)
 
 
 ## New & Updated Mechanics
@@ -177,6 +182,7 @@ Knowledge Skills represent areas of general knowledge your character possesses. 
   * Android
   * Bugbear
   * Dwarf
+  * Droid
   * Elf
   * Half-Elf
   * Half-Orc
@@ -194,3 +200,38 @@ Knowledge Skills represent areas of general knowledge your character possesses. 
     * 'Half' Minotaur
     * Simic Hybrid
     * 'Half' Tabaxi
+
+#### Droids
+Droids are humanoid robots with some level of AI. They vary greatly in sophistication depending on what they were designed for. All droids possess an biological internal processor which allows them to perform spontaneous decision making and greatly enhances their ability to communicate with organic lifeforms.
+
+##### Droid Traits
+  * +2 CON score
+  * Base walking speed 30'
+  * Immune to poison, disease
+  * Cannot drown or suffocate
+  * Advantage vs Charmed and Frightened
+  * Cannot use magic
+  * Cannot swim without special gear or mods (sinks at 50' /round if in water.)
+  * Can be Small or Medium
+    * If small, 100-200 lbs, 2-3' tall
+    * If medium, 300-500 lbs 4-7' tall
+  * Droids will Overload if they take too much lightning damage (see Overloading)
+
+##### Overloading
+  * If a droid takes lightning damage >= their current level from a single source (attack, spell, trap, etc), they 'Overload' and must perform a partial reboot to continue functioning correctly.
+    * Roll 1d4 to determine an additional effect for 1d4 rounds:
+      * 1: Move speed becomes 15'
+      * 2: Disadvantage on skill checks
+      * 3: Disadvantage on attack rolls
+      * 4: Disadvantage on saving throws
+    * If you roll an effect you already have from this source, reroll the 1d4 until you get a new effect.
+    * If a droid takes accumulates 3/4 of the effects from Overload, they must perform an immediate emergency reboot. They lose all effects of Overload immediately, and become Paralyzed for 1d4 rounds until their reboot is completed.
+
+##### Downed Rules
+  * When a droid goes down, they do not need to roll death throws. They can still suffer from instant death as normal.
+  * All damage taken after reaching 0 HP, including damage from the initial hit that downs the droid, must be healed before the droid can regain consciousness.
+
+##### Repairing
+  * Droids cannot be healed using Vitality Stimulants, healing spells, or Healing Stimulants. They must be healed using Repair Kits, or by certain magical spells:
+    * Mending cantrip can restore 1 HP to a robot per cast.
+    * Fabricate spell heals robot equal to 50% of it's max HP value + the caster's spell mod.

@@ -11,12 +11,12 @@
 .task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
 </style>
         <style>
-body { background-color:rgb(33, 40, 53); } h1 { color: whitesmoke; font-family: "Cuprum"; font-size: 80px; } h2 { color: whitesmoke; font-family: "Cuprum"; font-size: 50px; font-weight: bold; padding-top: 35px; } h3 { color: whitesmoke; font-family: "Lato"; font-size: 25px; font-weight: bold; line-height: 25px; padding-top: 8px; } h4 { color: whitesmoke; font-family: "Lato"; font-size: 17px; font-weight: bold; text-decoration: underline; } iframe { min-width:500px; min-height:200px; border: 0px; padding-bottom: 20px; } p { color: whitesmoke; font-family: "Nunito"; font-size: 15px; } table td { color: whitesmoke; border-bottom: 1px solid whitesmoke; font-family:"Nunito"; font-size: 15px; padding: 2px 2px 2px 2px; } table th { color: whitesmoke; border-bottom: 2px solid whitesmoke; font-family:"Nunito"; font-size: 15px; font-weight: bold; padding: 2px 2px 2px 2px; } li a { color: greenyellow; } ul li { color: whitesmoke; font-size: 15px; font-family: "Nunito"; } ul li::before { color: whitesmoke; font-size: 15px; font-family: "Nunito"; }
+body { background-color:rgb(33, 40, 53); } h1 { color: whitesmoke; font-family: "Cuprum"; font-size: 80px; } h2 { color: whitesmoke; font-family: "Cuprum"; font-size: 50px; font-weight: bold; padding-top: 35px; } h3 { color: whitesmoke; font-family: "Lato"; font-size: 25px; font-weight: bold; line-height: 25px; padding-top: 8px; } h4 { color: whitesmoke; font-family: "Lato"; font-size: 17px; font-weight: bold; text-decoration: underline; } h5 { color: rgb(138, 138, 138); font-family: "Lato"; font-size: 17px; font-weight: bold; } iframe { min-width:500px; min-height:200px; border: 0px; padding-bottom: 20px; } p { color: whitesmoke; font-family: "Nunito"; font-size: 15px; } table td { color: whitesmoke; border-bottom: 1px solid whitesmoke; font-family:"Nunito"; font-size: 15px; padding: 2px 2px 2px 2px; } table th { color: whitesmoke; border-bottom: 2px solid whitesmoke; font-family:"Nunito"; font-size: 15px; font-weight: bold; padding: 2px 2px 2px 2px; } li a { color: greenyellow; } ul li { color: whitesmoke; font-size: 15px; font-family: "Nunito"; } ul li::before { color: whitesmoke; font-size: 15px; font-family: "Nunito"; }
 </style>
         
         
     </head>
-    <body class="vscode-light">
+    <body class="vscode-body vscode-light">
         <h1 id="5e-sci-fi-core-book">5e Sci-Fi Core Book</h1>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
@@ -69,6 +69,14 @@ body { background-color:rgb(33, 40, 53); } h1 { color: whitesmoke; font-family: 
 <li><a href="#races">Races</a>
 <ul>
 <li><a href="#playable-races">Playable Races</a></li>
+<li><a href="#droids">Droids</a>
+<ul>
+<li><a href="#droid-traits">Droid Traits</a></li>
+<li><a href="#overloading">Overloading</a></li>
+<li><a href="#downed-rules">Downed Rules</a></li>
+<li><a href="#repairing">Repairing</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -276,6 +284,7 @@ body { background-color:rgb(33, 40, 53); } h1 { color: whitesmoke; font-family: 
 <li>Android</li>
 <li>Bugbear</li>
 <li>Dwarf</li>
+<li>Droid</li>
 <li>Elf</li>
 <li>Half-Elf</li>
 <li>Half-Orc</li>
@@ -294,6 +303,56 @@ body { background-color:rgb(33, 40, 53); } h1 { color: whitesmoke; font-family: 
 <li>'Half' Minotaur</li>
 <li>Simic Hybrid</li>
 <li>'Half' Tabaxi</li>
+</ul>
+</li>
+</ul>
+<h4 id="droids">Droids</h4>
+<p>Droids are humanoid robots with some level of AI. They vary greatly in sophistication depending on what they were designed for. All droids possess an biological internal processor which allows them to perform spontaneous decision making and greatly enhances their ability to communicate with organic lifeforms.</p>
+<h5 id="droid-traits">Droid Traits</h5>
+<ul>
+<li>+2 CON score</li>
+<li>Base walking speed 30'</li>
+<li>Immune to poison, disease</li>
+<li>Cannot drown or suffocate</li>
+<li>Advantage vs Charmed and Frightened</li>
+<li>Cannot use magic</li>
+<li>Cannot swim without special gear or mods (sinks at 50' /round if in water.)</li>
+<li>Can be Small or Medium
+<ul>
+<li>If small, 100-200 lbs, 2-3' tall</li>
+<li>If medium, 300-500 lbs 4-7' tall</li>
+</ul>
+</li>
+<li>Droids will Overload if they take too much lightning damage (see Overloading)</li>
+</ul>
+<h5 id="overloading">Overloading</h5>
+<ul>
+<li>If a droid takes lightning damage &gt;= their current level from a single source (attack, spell, trap, etc), they 'Overload' and must perform a partial reboot to continue functioning correctly.
+<ul>
+<li>Roll 1d4 to determine an additional effect for 1d4 rounds:
+<ul>
+<li>1: Move speed becomes 15'</li>
+<li>2: Disadvantage on skill checks</li>
+<li>3: Disadvantage on attack rolls</li>
+<li>4: Disadvantage on saving throws</li>
+</ul>
+</li>
+<li>If you roll an effect you already have from this source, reroll the 1d4 until you get a new effect.</li>
+<li>If a droid takes accumulates 3/4 of the effects from Overload, they must perform an immediate emergency reboot. They lose all effects of Overload immediately, and become Paralyzed for 1d4 rounds until their reboot is completed.</li>
+</ul>
+</li>
+</ul>
+<h5 id="downed-rules">Downed Rules</h5>
+<ul>
+<li>When a droid goes down, they do not need to roll death throws. They can still suffer from instant death as normal.</li>
+<li>All damage taken after reaching 0 HP, including damage from the initial hit that downs the droid, must be healed before the droid can regain consciousness.</li>
+</ul>
+<h5 id="repairing">Repairing</h5>
+<ul>
+<li>Droids cannot be healed using Vitality Stimulants, healing spells, or Healing Stimulants. They must be healed using Repair Kits, or by certain magical spells:
+<ul>
+<li>Mending cantrip can restore 1 HP to a robot per cast.</li>
+<li>Fabricate spell heals robot equal to 50% of it's max HP value + the caster's spell mod.</li>
 </ul>
 </li>
 </ul>
