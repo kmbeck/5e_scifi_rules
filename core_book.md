@@ -114,7 +114,7 @@ Implants replace the mechanic of attuned magic items. Each character can have a 
 ### Armor
 Many of the armor sets in the Armor Table are directly converted from 5e. Players can buy any standard 5e armor now listed in the Armor Table for the standard price.
 #### Armor Table
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBkeMhFvZXvWK-ZgUkmUrhQPjerUmvWrNJXJ_PdBpufO7KPBeUMk-k-Mk6Rz8v2a7btgNGEyRxFCN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1125" height="450"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBkeMhFvZXvWK-ZgUkmUrhQPjerUmvWrNJXJ_PdBpufO7KPBeUMk-k-Mk6Rz8v2a7btgNGEyRxFCN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="450"></iframe>
 
 
 ### Weapons
@@ -140,19 +140,19 @@ There are some new weapon properties:
 
 #### Weapon Table
 **Note:** Weapons with red text cannot be purchased legally without special licensing.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WI0XzFbtLCF8lJnTgH9gVJ1uWLOwruY8h_DZAtnE76le8aHkIrDIz8Lbxwc4I1A-XM_S8dKspWyw/pubhtml?widget=true&amp;headers=false" width="1100" height="1275"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WI0XzFbtLCF8lJnTgH9gVJ1uWLOwruY8h_DZAtnE76le8aHkIrDIz8Lbxwc4I1A-XM_S8dKspWyw/pubhtml?widget=true&amp;headers=false" width="100%" height="1275"></iframe>
 
 
 ### Gear & Equpment
 For now use common sense to determine which items can be equpped at the same time and which ones cannot.
 #### Gear & Equipment Table
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsWS0NjKGBfied_lyW-WWvD-Ivjcz5b0LJzU6zhoxMcYNh0AaO1giG_SI5rdJsdJPBi7qugO4f25tT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1060" height="1380"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsWS0NjKGBfied_lyW-WWvD-Ivjcz5b0LJzU6zhoxMcYNh0AaO1giG_SI5rdJsdJPBi7qugO4f25tT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1380"></iframe>
 
 
 ### Mods & Implants
 Mods and Implants largely replace the mechanic of magic items in 5e.
 #### Mods & Implants Table
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRltOiwJ4N_2wqikvgDSPlw5AD_jwyMSLNwlpgz9TH6EY5TakDBk51pZrwCnk9sd2ZvJKO6lo-iKP_Y/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="1200" height="1475"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRltOiwJ4N_2wqikvgDSPlw5AD_jwyMSLNwlpgz9TH6EY5TakDBk51pZrwCnk9sd2ZvJKO6lo-iKP_Y/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1475"></iframe>
 
 
 ### Skills
@@ -162,7 +162,7 @@ Performance skills require your character to successfully perform a specific tas
   * Skills listed with (XX / XX) require the player to choose which stat to use at lvl 1.
   * Skills listed with (XX & XX) will change which attribute must be used depending on the situation.
     * For example: a Security check to try and analyze encrypted data would require and INT check, while a Security check to pick a lock would require a DEX check.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmB3octe5LoK3I54cj1z1KggluZKXGetKGHfR4W_GPaKJPE67kuh9tWh-aP12qvEg4UPmN8qgimF0p/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="850" height="450"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmB3octe5LoK3I54cj1z1KggluZKXGetKGHfR4W_GPaKJPE67kuh9tWh-aP12qvEg4UPmN8qgimF0p/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="450"></iframe>
 
 
 #### Knowledge Skills
@@ -173,7 +173,10 @@ Knowledge Skills represent areas of general knowledge your character possesses. 
   * Your level in a Knowledge Skill canot exceed your own level / 2 (you must be level 10 before you can reach level 5 in any Knowledge Skill).
   * You may only spend points in a number of different Knowledge Skills equal to your current INT mod (+3 INT mod toons can put points into 3 different Knowledge Skills).
   * Reaching max level in a Knowledge Skill grants the associated perk.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmB3octe5LoK3I54cj1z1KggluZKXGetKGHfR4W_GPaKJPE67kuh9tWh-aP12qvEg4UPmN8qgimF0p/pubhtml?gid=387272837&amp;single=true&amp;widget=true&amp;headers=false" width="875" height="300"></iframe>
+
+<div>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmB3octe5LoK3I54cj1z1KggluZKXGetKGHfR4W_GPaKJPE67kuh9tWh-aP12qvEg4UPmN8qgimF0p/pubhtml?gid=387272837&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
+</div>
 
 
 ### Races
