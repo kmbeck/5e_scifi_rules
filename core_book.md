@@ -223,7 +223,7 @@ Droids are humanoid robots with some level of AI. They vary greatly in sophistic
 ##### Overloading
   * If a droid takes lightning damage >= their current level from a single source (attack, spell, trap, etc), they 'Overload' and must perform a partial reboot to continue functioning correctly.
     * Roll 1d4 to determine an additional effect for 1d4 rounds:
-      * 1: Move speed becomes 15'
+      * 1: Half movement speed
       * 2: Disadvantage on skill checks
       * 3: Disadvantage on attack rolls
       * 4: Disadvantage on saving throws
