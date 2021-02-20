@@ -34,6 +34,7 @@
         - [Droid Traits](#droid-traits)
         - [Overloading](#overloading)
         - [Downed Rules](#downed-rules)
+        - [Instant Recharge](#instant-recharge)
         - [Repairing](#repairing)
 
 
@@ -208,7 +209,7 @@ Knowledge Skills represent areas of general knowledge your character possesses. 
 Droids are humanoid robots with some level of AI. They vary greatly in sophistication depending on what they were designed for. All droids possess an biological internal processor which allows them to perform spontaneous decision making and greatly enhances their ability to communicate with organic lifeforms.
 
 ##### Droid Traits
-  * +2 CON score
+  * +2 to any ability score, +1 to a second ability score.
   * Base walking speed 30'
   * Immune to poison, disease
   * Cannot drown or suffocate
@@ -218,14 +219,22 @@ Droids are humanoid robots with some level of AI. They vary greatly in sophistic
   * Can be Small or Medium
     * If small, 100-200 lbs, 2-3' tall
     * If medium, 300-500 lbs 4-7' tall
+  * Speed - Choose one of the following
+    * 35ft
+    * 30ft + climbing 10ft* - I chose this one
+    * 30ft w/ adv on dex when jumping
+    * 25ft w/o difficult terrain penalty
   * Droids will Overload if they take too much lightning damage (see Overloading)
 
 ##### Overloading
   * Dealing >= 50% of a droid's max HP in a single round will cause it to Overload. This will incapacitate the droid until the start of the creature's turn who caused it to Overload.
 
 ##### Downed Rules
-  * When a droid goes down, they do not need to roll death throws. They can still suffer from instant death as normal.
+  * When a droid goes down, they do not need to roll death throws. If they reach -HP greater than their max HP, they are irrepirably destroyed, and cannot be repaired.
   * All damage taken after reaching 0 HP, including damage from the initial hit that downs the droid, must be healed before the droid can regain consciousness.
+
+##### Instant Recharge
+  * Droids cannot use Vitality Stimulants. Instead twice per long rest, and once per encounter, they can spend a full action to get an immediate short rest.
 
 ##### Repairing
   * Droids cannot be healed using Vitality Stimulants, healing spells, or Healing Stimulants. They must be healed using Repair Kits, or by certain magical spells:
