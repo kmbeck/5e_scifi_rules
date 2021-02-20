@@ -5,7 +5,7 @@
 - [5e Sci-Fi Core Book](#5e-sci-fi-core-book)
   - [Table of Contents](#table-of-contents)
   - [New & Updated Mechanics](#new--updated-mechanics)
-    - [General Notes](#general-notes)
+    - [Action Economy](#action-economy)
     - [Credits (Currency)](#credits-currency)
     - [Power Cells](#power-cells)
     - [Energy Weapons (Firearms)](#energy-weapons-firearms)
@@ -39,9 +39,10 @@
 
 
 ## New & Updated Mechanics
-### General Notes
+### Action Economy
   *  In the rules below, any time an action would require you to spend 15’ or less of movement, you can choose to spend your bonus action instead.
-    * At the moment this does not change pre-existing 5e rules for balance. It still takes half of your movement to stand up from Prone.
+     * At the moment this does not change pre-existing 5e rules for balance. It still takes half of your movement to stand up from Prone.
+  * While in combat, items inside of a container such as a backpack take a full action to retrieve, and cannot be retrieved at all if an enemy has made a melee attack against against you since your last turn. See the [Chest Rigs & Utility Belts](#chest-rigs--utility-belts) section for more details.
 
 
 ### Credits (Currency)
@@ -93,6 +94,9 @@ Mods are upgrades that can be placed on a weapon or armor.
 Items that can be used in combat must first be placed in a Chest Rig or on a Utility Belt. This includes sidearms & alternate weapons, power cells, swappable weapon and armor mods, gear you wish to have quick access to, etc.
   * It takes an action to move an item from another container to your rig/belt.
   * It takes 10’ of movement to add a loose item to your rig/belt.
+  * It takes 15' of movement (or bonus action) to use an item from your rig/belt.
+  * You can stow and draw one weapon from your rig/belt per turn. 
+    * If you have dual wielding proficiency, you can stow/draw two weapons from your rig/belt per turn. 
   * Chest Rigs and Utility Belts are purchased separately from your armor.
   * Weapons with the ‘concealable’ property do not take up a slot when placed in a rig or belt, and are still considered concealed
   * **RP NOTE:** Chest Rigs will draw much more attention from guards and enforcers than utility belts and many types of armor. Many people who see you wearing a chest rig (especially a kitted one) will assume you are prepared to enter combat at any moment. Wearing clothing or otherwise concealing a chest rig until you are ready for combat is always a good idea.
@@ -182,7 +186,7 @@ Knowledge Skills represent areas of general knowledge your character possesses. 
 
 ### Races
 #### Playable Races
-*Some sub races may not be available :)*. The story of your race is changed according to the world lore.
+The story of your race is changed according to the world lore.
   * Android
   * Bugbear
   * Dwarf
@@ -224,7 +228,6 @@ Droids are humanoid robots with some level of AI. They vary greatly in sophistic
     * 30ft + climbing 10ft* - I chose this one
     * 30ft w/ adv on dex when jumping
     * 25ft w/o difficult terrain penalty
-  * Droids will Overload if they take too much lightning damage (see Overloading)
 
 ##### Overloading
   * Dealing >= 50% of a droid's max HP in a single round will cause it to Overload. This will incapacitate the droid until the start of the creature's turn who caused it to Overload.
