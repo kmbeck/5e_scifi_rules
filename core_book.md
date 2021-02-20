@@ -221,14 +221,7 @@ Droids are humanoid robots with some level of AI. They vary greatly in sophistic
   * Droids will Overload if they take too much lightning damage (see Overloading)
 
 ##### Overloading
-  * If a droid takes lightning damage >= their current level from a single source (attack, spell, trap, etc), they 'Overload' and must perform a partial reboot to continue functioning correctly.
-    * Roll 1d4 to determine an additional effect for 1d4 rounds:
-      * 1: Half movement speed
-      * 2: Disadvantage on skill checks
-      * 3: Disadvantage on attack rolls
-      * 4: Disadvantage on saving throws
-    * If you roll an effect you already have from this source, reroll the 1d4 until you get a new effect.
-    * If a droid accumulates 3/4 of the effects from Overload, they must perform an immediate emergency reboot. They lose all effects of Overload immediately, and become Paralyzed for 1d4 rounds until their reboot is completed.
+  * Dealing >= 50% of a droid's max HP in a single round will cause it to Overload. This will incapacitate the droid until the start of the creature's turn who caused it to Overload.
 
 ##### Downed Rules
   * When a droid goes down, they do not need to roll death throws. They can still suffer from instant death as normal.
